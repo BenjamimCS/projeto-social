@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scrollbar-width: none; /* For browsers whose standardized */
+}
+
+html::-webkit-scrollbar { /* Chromium Browsers or WebKit based browsers */
+    display: none;
+}
+
+img {
+    width: 100%;
+}
