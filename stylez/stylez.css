@@ -10,6 +10,10 @@ html, body {
     width: 100vw;
 }
 
+a, img {
+    display: block;
+}
+
 iframe {
     display: block;
 }
